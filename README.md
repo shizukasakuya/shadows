@@ -1,19 +1,20 @@
-## how to run
+# Shadow Tendril Game
 
-npm install
+## An Interactive Exploration of Rumination
 
-npm run server
-npm start
+This project is a web-based interactive experience exploring rumination through visual metaphors. Built with HTML5 Canvas and JavaScript in collaboration with claude (anthropic).
 
-## other dependencies
+## Overview
 
-Note for the server you need python3, opencv-python, and numpy.
+- Canvas-based animation with shadow-like tendrils responding to cursor movements
+- Gradual darkening effect as tendrils encircle the cursor
+- Dynamic appearance of positive and negative thoughts
+- Transition effects between light and dark states
 
-This is needed to cute the sprite out and trim it down for game rendering.
+## Purpose
 
-### .env
+Visualize how thoughts can spiral during rumination and the potential for breaking free from negative thought patterns. A need to stay in motion. This helped me to express my own rumination through interaction.
 
-you need an .env file at the root of your directory with your openAI token.
-OPENAI_API_KEY=123
+## How to Use
 
-Server needs this call dalle and chat gpt.. its pretty cheap though !!
+1. `npm install && npm start` in a web browser
