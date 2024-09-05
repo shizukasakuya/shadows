@@ -1,0 +1,7 @@
+node_modules
+dist/*.png
+dist/*.js
+server/temp/**
+.env
+.vscode
+
