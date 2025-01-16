@@ -1,6 +1,6 @@
 # Shadow Tendril Game
 
-https://shizukasakuya.github.io/shadows/
+https://shadows.nami.studio
 
 ## An Interactive Exploration of Rumination
 
