@@ -17,4 +17,4 @@ Built with HTML5 Canvas and JavaScript in collaboration with claude (anthropic).
 
 ## How to Use
 
-1. `npm install && npm start` in a web browser
+1. `npm install && npm start`
